@@ -1,7 +1,8 @@
 V&D Apps PRIVACY POLICY
 September 13, 2019 at 17:22
 Overview
-This Privacy Policy describes the information collected by V&D Apss (“We,” “us” or “our”) through our mobile applications and how we use that information.
+This Privacy Policy describes the information collected by 
+V&D Apss (“We,” “us” or “our”) through our mobile applications and how we use that information.
 
 Information that we collect
  Information that we get about you from other services Such as Google Analytics, Flurry, Google Play and others. This information includes:
